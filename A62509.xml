@@ -1,0 +1,602 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions to a painter upon the death and funeral of Her Late Majesty, Q. Mary, of blessed memory by J. Talbot.</title>
+            <author>Talbot, James, d. 1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62509</idno>
+            <idno type="STC">Wing T113</idno>
+            <idno type="STC">ESTC R22066</idno>
+            <idno type="EEBO-CITATION">12486031</idno>
+            <idno type="OCLC">ocm 12486031</idno>
+            <idno type="VID">62286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 298:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions to a painter upon the death and funeral of Her Late Majesty, Q. Mary, of blessed memory by J. Talbot.</title>
+                  <author>Talbot, James, d. 1708.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62286:1"/>
+            <pb facs="tcp:62286:1"/>
+            <p>INSTRUCTIONS TO A PAINTER, UPON THE <hi>Death and Funeral</hi> Of Her Late MAJESTY Q. MARY OF Bleſſed Memory.</p>
+            <p>By <hi>J. TALBOT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jacob Tonſon,</hi> at the <hi>Judge's Head,</hi> near the <hi>Inner-Temple-Gate,</hi> in <hi>Fleet-Street,</hi> 1695.</p>
+            <pb facs="tcp:62286:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62286:2"/>
+            <head>
+               <hi>To His GRACE CHARLES Duke of</hi> SOMERSET, <hi>Earl of</hi> HERTFORD, <hi>Viſcount</hi> BEA<g ref="char:V">Ʋ</g>CHAMP <hi>of</hi> HATCH, <hi>Baron</hi> SEYMO<g ref="char:V">Ʋ</g>R <hi>of</hi> TROWBRIDGE, <hi>Chancellor of the Univerſity of</hi> CAMBRIDGE, <hi>Lord High Steward of</hi> CHICHESTER, <hi>AND Knight of the Moſt Noble Order of the</hi> GARTER.</head>
+            <p>THE Ambition I had to testifie to the World both the Veneration I owe to the Memory of ſo Excellent a Princeſs, and the Honour I have for the Worth of ſo Noble a Patron, has prompted me, after a long Diſtruſt of my Abilities, and a juſt Apprehenſion of the Diſad<g ref="char:EOLhyphen"/>vantage I have in coming after ſo many abler Pens, (who have left me this Way only unattempted by Themſelves) to lay my ſelf, and theſe my Endea<g ref="char:EOLhyphen"/>vours at Your Grace's Feet.</p>
+            <p>
+               <pb facs="tcp:62286:3"/>
+Your Grace has every Way the beſt Title to this Performance, both as the Head of that Learned Body, whereof I am an unworthy Member; and of that Noble Family, which, by Your Grace's Favour, I have the Honour to depend on; and particularly, as One, who, with Your Illuſtrious Lady, had ſo Eminent a Share in the Mournful Solemnity that occaſion'd the following Lines, which, together with all the Labours of my Life, are humbly recommen<g ref="char:EOLhyphen"/>ded to Your Grace's Patronage, by</p>
+            <closer>
+               <signed>Your GRACE'S <hi>Moſt Humble and Moſt Obedient Servant, J. TALBOT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:62286:3"/>
+            <head>INSTRUCTIONS TO A PAINTER, &amp;c.</head>
+            <lg>
+               <l>'TIS paſt!— The diſmal Pomp of Grief is done!</l>
+               <l>Sorrow and Art their utmoſt force have ſhown,</l>
+               <l>And every Muſe with tributary Verſe</l>
+               <l>Has well adorn'd the Great <hi>Maria</hi>'s Herſe.</l>
+               <l>Now let the <hi>Painter</hi> with the <hi>Poet</hi> joyn,</l>
+               <l>With skilful Grief to frame ſome ſad Deſign;</l>
+               <l>All Arts muſt mourn the Great <hi>Maria</hi>'s Fall,</l>
+               <l>For ſhe encourag'd, lov'd, and cheriſh'd All.</l>
+            </lg>
+            <lg>
+               <l>Thou, whoſe wiſe Art, and whoſe unerring Hand,</l>
+               <l>In ſpeaking Forms all Paſſions can command;</l>
+               <l>And by each arbitrary Touch can move</l>
+               <l>Our Grief or Joy, our Hatred or our Love:</l>
+               <l>Thou, whoſe juſt Pencil often has expreſs'd,</l>
+               <l>Of all her Sex the Greateſt, and the Beſt;</l>
+               <l>Whilſt ev'ry charming Feature did impart</l>
+               <l>New Wonders to our Eyes, new Beauties to thy Art:</l>
+               <l>Change now thy Style, and let thy Pencil ſhew</l>
+               <l>This laſt ſad Office to <hi>Maria</hi> due:</l>
+               <l>Let no gay Object through this Piece be ſeen,</l>
+               <l>For Death and Sorrow is the gloomy Scene,</l>
+               <l>Mournful Attire, pale Looks, and weeping Eyes,</l>
+               <l>And (could thy Art expreſs them) Groans and Sighs.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:62286:4"/>
+               <l>Firſt, Painter, draw the beauteous Sov'reign laid</l>
+               <l>In reſtleſs Anguiſh on the Fatal Bed;</l>
+               <l>Shew how the rude Diſtemper wildly preys</l>
+               <l>On all the hallow'd Beauties of her Face:</l>
+               <l>Paint the fam'd Sons of Art, with watchful Eyes,</l>
+               <l>Waiting each Symptom of the fierce Diſeaſe;</l>
+               <l>In all their Looks deſcribe their pious Strife,</l>
+               <l>Their Zeal to reſcue this important Life.</l>
+               <l>But Oh! in vain their fruitleſs Skill they try,</l>
+               <l>In vain their well-weigh'd Med'cines they apply,</l>
+               <l>Too weak to quell the potent Enemy:</l>
+               <l>The fair Out-works already he has gain'd,</l>
+               <l>Nor can the Royal Fort be long maintain'd;</l>
+               <l>Proud of his Force, he ſtorms her lab'ring Heart,</l>
+               <l>Thence ſpreads Infection round to ev'ry Part,</l>
+               <l>And mocks the feeble Succours of their baffled Art.</l>
+            </lg>
+            <lg>
+               <l>Then, all amaz'd, the Sons of Art prepare</l>
+               <l>In ſofteſt Terms to utter their Deſpair.</l>
+               <l>
+                  <hi>William,</hi> who in their Looks perceives his Fate,</l>
+               <l>Unable to ſuſtain the mighty Weight</l>
+               <l>Of his vaſt Grief, nor bearing to ſurvive</l>
+               <l>So dear a Loſs, ſinks, and denies to live.</l>
+            </lg>
+            <lg>
+               <l>In juſt bold Strokes let thy nice Pencil ſhow</l>
+               <l>The mournful Majeſty of Royal Woe;</l>
+               <l>Paint in his Face the Horrour that poſſeſs'd</l>
+               <l>His Soul, and all the Tumult of his Breaſt:</l>
+               <l>Death in all other Shapes he could deſpiſe,</l>
+               <l>Secure of Harms, and fearleſs of Surprize;</l>
+               <l>But Oh! He could not ſee it in <hi>Maria</hi>'s Eyes.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:62286:4"/>
+               <l>Again reſtor'd, again the Hero falls,</l>
+               <l>And blames the Skill which his loſt Senſe recalls;</l>
+               <l>Bids his ſad Friends forbear th'unkind Relief,</l>
+               <l>Which raſhly with his Life renews his Greif.</l>
+            </lg>
+            <lg>
+               <l>Alone <hi>Maria</hi> bears the dreadful Shock,</l>
+               <l>Alone prepares to meet the coming Stroke;</l>
+               <l>Wond'ring ſhe views the ſad Diſtraction round,</l>
+               <l>And chides the Grief which in each Face ſhe found:</l>
+               <l>Then calls the Holy Men, who near her wait,</l>
+               <l>Slow to pronounce the laſt Reſolves of Fate;</l>
+               <l>And (for ſhe read their Meſſage in their Eyes)</l>
+               <l>Bids them impart the Heav'enly Myſteries:</l>
+               <l>Void of all Female Fears, all Mortal Cares,</l>
+               <l>Wants not their Counſels, but requeſts their Prayers;</l>
+               <l>For ſhe in Death no Terrour could deſcry,</l>
+               <l>Who all her Life had ſtudied how to die.</l>
+            </lg>
+            <lg>
+               <l>Then with her lateſt Breath—</l>
+               <l>She calls the King, deſirous to impart</l>
+               <l>The laſt kind Wiſhes of her faithful Heart:</l>
+               <l>The mournful King with tender Haſte repairs,</l>
+               <l>His Breaſt ſtill big with Grief, his Eyes with Tears:</l>
+               <l>She ſees the Briny Tide profuſely roll,</l>
+               <l>She ſees and ſhares the Tempeſt of his Soul;</l>
+               <l>Th' infectious Sorrow teaches her to grieve,</l>
+               <l>She now begins to wiſh a ſhort Reprieve,</l>
+               <l>And for his Sake could be content to live.</l>
+               <l>Fain would ſhe ſpeak— But Oh! her Voice affords</l>
+               <l>No eaſie Vent to Thoughts too big for Words.</l>
+               <l>She try'd— But ſtill th' imperfect Accents hung</l>
+               <l>On the diſorder'd Organ of her Tongue.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:62286:5"/>
+               <l>Here, Painter, thy bold Art may well ſupply</l>
+               <l>The Utt'rance which hard Nature did deny,</l>
+               <l>And freely ſpeak their mutual Agonies</l>
+               <l>In the ſad ſilent Language of their Eyes.</l>
+            </lg>
+            <lg>
+               <l>And now the Tyrant Death muſt exerciſe</l>
+               <l>His laſt wild Ravage on his Beauteous Prize:</l>
+               <l>Till now the ſubtile Foe by ſlow Degrees,</l>
+               <l>Though with ſure Force, her Vital Pow'rs did ſeize;</l>
+               <l>Till now his Rage, by ſome juſt Awe confin'd,</l>
+               <l>Had ſpar'd the ſacred Temple of her Mind:</l>
+               <l>But Oh! at laſt, impatient of Delay,</l>
+               <l>And eager to poſſeſs the Royal Prey,</l>
+               <l>He ſnatches Speech, and Senſe, and Breath away.</l>
+               <l>
+                  <hi>Maria</hi> ſaw, and met the lifted Dart;</l>
+               <l>(Well might it pierce, but could not ſhock her Heart:)</l>
+               <l>At laſt, unequal in the mighty Strife,</l>
+               <l>In a ſoft Sigh She yields her ſpotleſs Life.</l>
+            </lg>
+            <lg>
+               <l>See how defac'd the goodly Fabrick lies,</l>
+               <l>Never had Death ſo fair a Sacrifice.</l>
+               <l>So the proud Tyrant, who, like Death, does try</l>
+               <l>To rage in Univerſal Monarchy,</l>
+               <l>By boundleſs Luſt of Empire prompted on,</l>
+               <l>Prepares to conquer ſome important Town;</l>
+               <l>His fierce Machines with dreadful Force does raiſe,</l>
+               <l>Firſt ſtorms, and then demoliſhes the Place.</l>
+            </lg>
+            <lg>
+               <l>Cruel Diſeaſe! Had not thy Fury ſown</l>
+               <l>Its wide Infection round the ſlaughter'd Town,</l>
+               <l>But muſt thy impious Malice climb the Throne!</l>
+               <l>Could not ſo large, ſo populous a Stage</l>
+               <l>Furniſh both Room and Fuel to thy Rage?</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:62286:5"/>
+               <l>Muſt thy bold Sacrilege aſpire ſo high,</l>
+               <l>As to prophane Anointed Majeſty?</l>
+               <l>Had not Plebeian Deaths thy Thirſt appeas'd,</l>
+               <l>But muſt a Royal Victim crown thy Feaſt?</l>
+            </lg>
+            <lg>
+               <l>In various Shapes the wild Diſorder trace,</l>
+               <l>Which ev'ry Heart declar'd in ev'ry Face:</l>
+               <l>Paint the juſt Grief which in each Eye was ſeen,</l>
+               <l>Whilſt Some the Miſtreſs mourn'd, but All the Queen.</l>
+            </lg>
+            <lg>
+               <l>But Painter, like thy wiſe <hi>Apelles,</hi> ſpread</l>
+               <l>A thick wrought Veil round the ſad Sovereign's Head:</l>
+               <l>For Oh! What Pen, what Pencil can expreſs</l>
+               <l>The Tranſports which his tortur'd Soul oppreſs?</l>
+               <l>No Tongue, no Art can ſpeak the boundleſs Grief,</l>
+               <l>Above Deſcription, and beyond Belief.</l>
+            </lg>
+            <lg>
+               <l>And now the fatal News abroad is ſpread,</l>
+               <l>And weeping Crowds lament <hi>Maria</hi> Dead;</l>
+               <l>Crouds which had throng'd before her Palace-Gate,</l>
+               <l>To wait the dark Decrees of doubtful Fate.</l>
+               <l>Fame takes their ecchoing Griefs at firſt Rebound,</l>
+               <l>Whilſt ſighing Winds proclaim the mournful Sound,</l>
+               <l>And Univerſal Sorrow reigns around.</l>
+            </lg>
+            <lg>
+               <l>Here, Painter, let thy skilful Pencil draw</l>
+               <l>The Venerable Founders of our Law:</l>
+               <l>Shew with what deep Concern the Patriots meet,</l>
+               <l>Forgetful now of Peace or War to treat.</l>
+               <l>A ſilent Horrour all the Place does fill,</l>
+               <l>And the great Bus'neſs of the World ſtands ſtill:</l>
+               <l>The wiſe Reſolves which liſt'ning Nations wait</l>
+               <l>Are all adjourn'd, whilſt Great <hi>Maria</hi>'s Fate</l>
+               <l>Becomes the only Theme of this ſad Day's Debate.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:62286:6"/>
+               <l>In mournful Eloquence both Orders ſhow</l>
+               <l>What to the Queen, what to the King they owe;</l>
+               <l>And in their wiſe Addreſſes both prepare</l>
+               <l>T'expreſs their Grief for Her, for Him their Care.</l>
+            </lg>
+            <lg>
+               <l>By theſe great Patterns of juſt Sorrow ſhown,</l>
+               <l>The Loyal City, and the Rev'rend Gown</l>
+               <l>Condole their Sov'reign's Loſs, and ſpeak their own.</l>
+               <l>
+                  <hi>Iſis</hi> and <hi>Cham</hi> offer their pious Tears,</l>
+               <l>And pay the mournful Honours of their Verſe:</l>
+               <l>Their Learned Sons with humble Grief attend;</l>
+               <l>Theſe Noble <hi>Somerſet</hi> does recommend,</l>
+               <l>The Muſes Glory, and the Muſes Friend:</l>
+               <l>Thoſe Valiant <hi>Ormond</hi> leads, in Arms renown'd,</l>
+               <l>By Arts and Arms with Deathleſs Lawrels crown'd.</l>
+               <l>Each Province now deputes its Loyal Chief,</l>
+               <l>To claim a Subject's Share in <hi>William</hi>'s Grief;</l>
+               <l>Each Loyal Chief, with Trouble and Surprize,</l>
+               <l>Renews his Sorrows from ſad <hi>William</hi>'s Eyes.</l>
+            </lg>
+            <lg>
+               <l>Next, Painter, to <hi>Whitehall</hi> the Scene tranſlate,</l>
+               <l>And in dark Colours paint the mournful State:</l>
+               <l>Shew the ſad Enſigns of Dead Majeſty,</l>
+               <l>Which all around in diſmal Glory lie,</l>
+               <l>At once to trouble, and to pleaſe the Eye.</l>
+               <l>Here ſighing Crouds with curious Grief reſort,</l>
+               <l>Who ne'er till now went Sad from <hi>Mary</hi>'s Court.</l>
+               <l>But ſhorten here this melancholy Scene,</l>
+               <l>Our Griefs already have too tedious been;</l>
+               <l>And more of this black Pomp muſt yet be ſeen.</l>
+            </lg>
+            <lg>
+               <l>For now the ſad Solemnity proceeds,</l>
+               <l>Which to the <hi>Weſtern Temple</hi> ſlowly leads.</l>
+               <l>
+                  <pb n="9" facs="tcp:62286:6"/>
+Paint an unuſual Blackneſs in the Air,</l>
+               <l>Where hov'ring Clouds in gloomy Throngs prepare</l>
+               <l>The Glorious Grief below to view and ſhare.</l>
+            </lg>
+            <lg>
+               <l>See how the Royal Vertues all attend;</l>
+               <l>Each Royal Vertue was <hi>Maria</hi>'s Friend:</l>
+               <l>Each Royal Vertue hangs her drooping Head,</l>
+               <l>
+                  <hi>Their deepeſt Sorrows All profuſely ſhed,</hi>
+               </l>
+               <l>
+                  <hi>And all lament their lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Kind <hi>Charity</hi> moves ſadly on before,</l>
+               <l>Follow'd by weeping Multitudes of Poor:</l>
+               <l>Theſe were the Fav'rites of the Royal Fair,</l>
+               <l>The daily Object of her Pious Care,</l>
+               <l>As She (alas, the Fate!) of their Deſpair.</l>
+               <l>With Zeal their low Neceſſities ſhe ſought,</l>
+               <l>With tender Speed her early Succours brought:</l>
+               <l>Thus with a large, and yet a prudent Hand,</l>
+               <l>She ſcatter'd her wide Bounties round the Land;</l>
+               <l>And, like the Sun, munificently bright,</l>
+               <l>Where-e'er ſhe look'd, brought Plenty, Warmth, and Light.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mourn</hi> Albion, <hi>mourn; thy deepeſt Sorrow's ſhed:</hi>
+               </l>
+               <l>
+                  <hi>Kind</hi> Charity <hi>laments her lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next of the Train Fair <hi>Piety</hi> appears,</l>
+               <l>Her lovely Face diſguis'd with comely Tears.</l>
+               <l>Behind her weep the Sacred Miniſters</l>
+               <l>Who to high Heav'n convey'd <hi>Maria</hi>'s Prayers:</l>
+               <l>Oft have they knelt before <hi>Maria</hi>'s Throne,</l>
+               <l>And from her Saint-like Zeal improv'd their own.</l>
+               <l>
+                  <hi>Maria</hi> oft their holy Labours prais'd,</l>
+               <l>And oft, unask'd, their modeſt Merits rais'd.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:62286:7"/>
+               <l>The happy Church her firſt Regards did ſhare,</l>
+               <l>Whilſt her reſpectful Love did well declare</l>
+               <l>The Daughter's Reverence, and the Mother's Care.</l>
+            </lg>
+            <lg>
+               <l>But Oh! what Tongue, what Angel can rehearſe</l>
+               <l>
+                  <hi>(Maria</hi> oft with Angels did converſe)</l>
+               <l>The wondrous Raptures hid from Mortal View,</l>
+               <l>Which only Heav'n, and Heav'n's bleſs'd Darling knew?</l>
+               <l>When the fair Saint, in Tranſports unconfin'd,</l>
+               <l>Diſplay'd the boundleſs Force of her enlarged Mind;</l>
+               <l>When, like <hi>Elijah</hi>'s, her wing'd Soul did move</l>
+               <l>In the bright Vehicle of Flaming Love.</l>
+               <l>Her Fellow-Saints with wondrous Joy look'd down,</l>
+               <l>And with ſome high Reward prepar'd to crown</l>
+               <l>An Ardour ſcarcely Second to their own.</l>
+               <l>'Twas all Heav'ns Voice <hi>Maria</hi> ſhould be gone,</l>
+               <l>T' adorn their Choir, and their Creator's Throne:</l>
+               <l>They came, and call'd her to the Glorious Flight</l>
+               <l>Towards their fair Seats of unexhauſted Light.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mourn</hi> Albion, <hi>mourn; thy deepeſt Sorrows ſhed:</hi>
+               </l>
+               <l>
+                  <hi>Fair</hi> Piety <hi>laments her lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next, Painter, of the Venerable Band,</l>
+               <l>Draw <hi>Wiſdom</hi> joyn'd with <hi>Juſtice,</hi> Hand in Hand:</l>
+               <l>
+                  <hi>Juſtice</hi> and <hi>Wiſdom</hi> conſtantly were known</l>
+               <l>The fair Supporters of <hi>Maria</hi>'s Throne,</l>
+               <l>The two bright Jewels that adorn'd her Crown.</l>
+               <l>Theſe follow'd by <hi>Auguſta</hi>'s worthy Chief,</l>
+               <l>No common Sharer in the common Grief:</l>
+               <l>He by the two Wiſe Orders of our State,</l>
+               <l>In awful Pomp of Sorrow ſadly Great.</l>
+               <l>
+                  <hi>Auguſta</hi> oft with Pleaſure has obey'd,</l>
+               <l>With Pride ſubmitted whilſt <hi>Maria</hi> ſway'd:</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:62286:7"/>
+               <l>Oft has ſhe view'd with Joy her riſing Pile,</l>
+               <l>The Glory of her Walls, and of our Iſle:</l>
+               <l>Ambitiouſly ſhe urg'd the Builder's Haſte,</l>
+               <l>And hop'd, e'er few Revolving Moons were paſt,</l>
+               <l>
+                  <hi>Maria</hi>'s Preſence would her Altars grace,</l>
+               <l>
+                  <hi>Maria</hi>'s Pray'rs would conſecrate the Place.</l>
+               <l>Oft has our Senate thank'd the Royal Fair,</l>
+               <l>And own'd the Publick Safety to her Care:</l>
+               <l>Oft have they bleſs'd the Strong, but Gentle Hand,</l>
+               <l>Which could their Duty and their Love command;</l>
+               <l>As oft admir'd the God-like Majeſty</l>
+               <l>That govern'd with a ſweet and watchful Eye,</l>
+               <l>And could ſo well Great <hi>William</hi>'s Throne ſupply.</l>
+               <l>Fearleſs they reſted, and ſecure of Fate,</l>
+               <l>Whilſt He abroad defends, and She at home ſupports the State</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mourn,</hi> Albion, <hi>mourn; thy deepeſt Sorrows ſhed:</hi>
+               </l>
+               <l>Juſtice <hi>and</hi> Wiſdom <hi>mourn their lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Strew all your Flow'rs, and moiſten them with Tears;</l>
+               <l>For ſee— the Royal Pomp of Death appears,</l>
+               <l>Inſulting proudly o'er <hi>Maria</hi>'s Herſe.</l>
+               <l>See where the Gloomy Conqu'ror ſits on high,</l>
+               <l>With ſullen Smiles, and horrid Majeſty;</l>
+               <l>Views his Fair Captive, and ſurveys his State,</l>
+               <l>Whilſt weeping Princes on his Triumph wait.</l>
+               <l>The Purple Steeds their creſted Pride forget,</l>
+               <l>Forget the wonted Swiftneſs of their Feet;</l>
+               <l>Slowly they move, with an unwilling Pace,</l>
+               <l>And in their Looks a Humane Grief confeſs.</l>
+               <l>With Tears the ſad Spectators all behold,</l>
+               <l>Nor can the ſwelling Tide be now controll'd:</l>
+               <l>
+                  <hi>Their deepeſt Sorrows laviſhly they ſhed:</hi>
+               </l>
+               <l>
+                  <hi>All ſee, and ſeeing mourn their lov'd</hi> Maria <hi>Dead:</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:62286:8"/>
+               <l>But ſtay;— What Virtue's that Divinely Great,</l>
+               <l>Supported next in melancholy State?</l>
+               <l>Oh! 'tis <hi>Eliſa,</hi> gracefully Severe,</l>
+               <l>Lovely and Sad, as any Virtue there.</l>
+               <l>
+                  <hi>Eliſa,</hi> Great in Sorrow, as in Blood,</l>
+               <l>Laments the Fair, the Royal, and the Good.</l>
+               <l>
+                  <hi>Maria</hi> oft her Vertues would commend,</l>
+               <l>Oft own her by the happy Name of Friend:</l>
+               <l>Pleas'd in each ſhining Excellence to find</l>
+               <l>The juſt Reſemblance of her Spotleſs Mind.</l>
+               <l>Well worthy She, of all, to mourn in Chief,</l>
+               <l>Both from her Birth, her Honours, and her Grief.</l>
+               <l>A deep looſe Veil o'er her fair Viſage flows,</l>
+               <l>Which hides her Sorrows, but her Graces ſhows:</l>
+               <l>So the bright Sun breaks through ſome ſullen Cloud,</l>
+               <l>Whoſe envious Frowns his watry Glories ſhrowd;</l>
+               <l>Nor can that Shade his Boundleſs Beams confine,</l>
+               <l>At once he ſeems to Weep, at once does Shine.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mourn,</hi> Albion, <hi>mourn; thy deepeſt Sorrows ſhed:</hi>
+               </l>
+               <l>
+                  <hi>The Great</hi> Eliſa <hi>mourns her lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Beauteous Train attends the mournful Fair,</l>
+               <l>Grief in their Steps, and in their Eyes Deſpair.</l>
+               <l>Theſe oft <hi>Maria</hi>'s vacant Hours enjoy'd,</l>
+               <l>(Wiſely her vacant Hours ſhe ſtill employ'd)</l>
+               <l>Oft have they prais'd the Beauties of her Mind,</l>
+               <l>Where Mildneſs with high Majeſty was joyn'd;</l>
+               <l>Where State with eaſie Freedom did preſide,</l>
+               <l>Without the baſe Extreams of Meanneſs, or of Pride.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mourn,</hi> Albion, <hi>mourn; thy deepeſt Sorrows ſhed:</hi>
+               </l>
+               <l>
+                  <hi>Ye Fair</hi> Aſſiſtants, <hi>mourn your lov'd</hi> Maria <hi>Dead.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:62286:8"/>
+               <l>The <hi>Weſtern Dome</hi> ſalutes its Royal Gueſt,</l>
+               <l>The faireſt Saint which yet its Shrines has bleſs'd:</l>
+               <l>Whilſt mournful Muſick in melodious Sounds,</l>
+               <l>The raviſh'd Senſe at once delights and wounds.</l>
+               <l>Here, Artiſt, wiſh thy Skill could paint each Strain</l>
+               <l>Which in ſad Notes ſo ſweetly did complain:</l>
+               <l>(So <hi>Orpheus</hi> mourn'd when his lov'd Fair was ſlain.)</l>
+               <l>Wiſh thou couldſt ſhew the Heav'nly Words that hung</l>
+               <l>Upon the holy Preacher's charming Tongue;</l>
+               <l>Words ſweet as <hi>David</hi> wrote, and <hi>Aſaph</hi> ſung;</l>
+               <l>Words whoſe ſad Eloquence does well relate,</l>
+               <l>With pleaſing Grief, the Fair <hi>Maria</hi>'s Fate;</l>
+               <l>And with ſuch Life her Dying Vertues paint,</l>
+               <l>We mourn the Sov'reign, but admire the Saint.</l>
+               <l>So Ancient <hi>Rome,</hi> with falſe, but pious Pride,</l>
+               <l>Her leſs deſerving <hi>Caeſar</hi> Deify'd:</l>
+               <l>She hears his Death with Sorrow and Surprize,</l>
+               <l>Till from the flaming Pile th' unfetter'd Eagle flies;</l>
+               <l>Then, when th' Imperial Bird begins to ſoar,</l>
+               <l>All own the God, and weep the Man no more.</l>
+            </lg>
+            <lg>
+               <l>But now the Lateſt Honours all are pay'd,</l>
+               <l>And the dark Grave receives the Mighty Dead,</l>
+               <l>There with her Hallow'd Anceſtors to lie</l>
+               <l>Entomb'd in Reverend Obſcurity.</l>
+               <l>Here a freſh Stream of flowing Grief returns,</l>
+               <l>In ſpeechleſs Horrour each Aſſiſtant mourns;</l>
+               <l>Till deep-mouth'd Cannon the ſad Silence break,</l>
+               <l>And in loud Peals a Dreadful Sorrow ſpeak:</l>
+               <l>The ecchoing Air returns the mournful Sound,</l>
+               <l>And Univerſal Nature groans around.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:62286:9"/>
+               <l>Ceaſe, Painter, ceaſe— Thy Widow'd Art give o'er;</l>
+               <l>In ſilent Tears <hi>Maria</hi>'s Death deplore,</l>
+               <l>And vow a Pilgrimage for Years to come</l>
+               <l>To Fair <hi>Maria</hi>'s conſecrated Tomb:</l>
+               <l>There undiſturb'd let her bleſs'd Relicks lie,</l>
+               <l>Nor think <hi>Maria</hi>'s Name can ever die,</l>
+               <l>Whoſe Death, as well as Life, deſerves a Hiſtory.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62286:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
